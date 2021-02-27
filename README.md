@@ -1,4 +1,4 @@
-# 2021 BAE Mini-Bot Challenge 1 - MOndrian Madness Final Code
+# 2021 BAE Mini-Bot Challenge 1 - Mondrian Madness Final Code
 
 Codebase as part of the final challenge submission.
 
